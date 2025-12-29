@@ -1,3 +1,9 @@
-Repo describing Differentiable ARchitecTecture Search (DARTS), a method used to automatically find the optimal architecture of a neural network.
+## Introduction
 
-Only the notebook `DARTS.ipynb` was written ; the other source code was used from the original paper repo to try (with failure) to play with the method.
+Presentation of Differentiable ARchitecTecture Search (DARTS), a method used to automatically find the optimal architecture of a neural network.
+
+Only the notebook `DARTS.ipynb` was written; the other source code was used from the original paper repo to try (with failure) to play with the method.
+
+## Getting started
+
+Play with the `DARTS.ipynb` notebook!
